@@ -3,7 +3,7 @@
 import time
 
 def superFunc(x):
-    time.sleep(3)
+    time.sleep(0)
     return 42
 
 x=1

@@ -6,6 +6,7 @@ def finalComp(y):
     result=y
     result+=1
     result+=1
+    result+=1
     return result
     
 
